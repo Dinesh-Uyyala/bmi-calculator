@@ -4,6 +4,6 @@ function bmi(){
 	let ans=w/(h/100*h/100);
 	let bmio=(ans.toFixed(2));
 	document.getElementById("result").innerHTML="Your BMI is "+bmio;
-	console.log("Change from branch changes2");
+	console.log("Change from master branch");
 }
 
