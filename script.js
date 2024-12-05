@@ -5,5 +5,6 @@ function bmi(){
 	let bmio=(ans.toFixed(2));
 	document.getElementById("result").innerHTML="Your BMI is "+bmio;
 	console.log("Change from master branch");
+	console.log("Trail changes");
 }
 
