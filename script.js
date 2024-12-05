@@ -6,5 +6,6 @@ function bmi(){
 	document.getElementById("result").innerHTML="Your BMI is "+bmio;
 	console.log("Change from master branch");
 	console.log("Trail changes");
+	console.log("checking branching structure");
 }
 
